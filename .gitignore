@@ -1,0 +1,11 @@
+// truffle
+contracts/.placeholder
+test/.placeholder
+build
+node_modules
+
+// intellij
+.idea
+
+// custom
+client/src/contracts
